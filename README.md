@@ -5,5 +5,3 @@
 
 ### This repository contains
 * Appendix: Appendix of the manuscript.
-* Video demonstrations: Supplymentary videos Video of the manuscript.
- 
